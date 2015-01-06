@@ -1,0 +1,50 @@
+body {
+  font-family: Courier New;
+  font-weight: 300;
+}
+
+
+
+#search {
+
+	
+	text-align: center;
+}
+
+#search-results {
+	margin-top: 20px;
+}
+
+.textbox { 
+    border: 1px dashed #000000; 
+    outline:0; 
+    height:25px; 
+    width: 275px;
+     
+  } 
+
+  
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #fff;
+  font-size: 20px;
+  background: #34b8d9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fa583c;
+  text-decoration: none;
+}
+
+
+
+
+.btn:focus {
+  outline: 0;
+}
+
